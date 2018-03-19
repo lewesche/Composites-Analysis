@@ -1,5 +1,5 @@
 # CLT-Composites-Analysis 
-    By Leif Wesche 
+    Leif Wesche 
     Lewesche@gmail.com 
 
 
@@ -62,7 +62,7 @@
                     
     Hope this is useful! :)                    
                     
-    By Leif Wesche
+    Leif Wesche
     Lewesche@gmail.com
     
     
