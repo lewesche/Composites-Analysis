@@ -1,14 +1,14 @@
-# CLT-Composites-Analysis \
-    By Leif Wesche \
-    Lewesche@gmail.com \
+# CLT-Composites-Analysis 
+    By Leif Wesche 
+    Lewesche@gmail.com 
 
 
 # Description
-Analyze the layer stress and deformation of multi-layer composite laminates under various loads using Classical Laminate Theory (CLT).
-Failure modes are analyzed using stress failure theory, strain failure theory, and Tsai-Wu failure theory. 
-Plots strain profile, stress profile, and multiple failure envelopes. 
-Determines which plies fail and failure directions according to each failure theory. 
-Matlab R2018a, some functions (such as fimplicit) may not work for older versions. But code can be easily modified to work on older versions by plotting failure theories parametrically or removing Tsai-Wu plot enovlope. 
+    Analyze the layer stress and deformation of multi-layer composite laminates under various loads using Classical Laminate Theory (CLT).
+    Failure modes are analyzed using stress failure theory, strain failure theory, and Tsai-Wu failure theory. 
+    Plots strain profile, stress profile, and multiple failure envelopes. 
+    Determines which plies fail and failure directions according to each failure theory. 
+    Matlab R2018a, some functions (such as fimplicit) may not work for older versions. But code can be easily modified to work on older versions by plotting failure theories parametrically or removing Tsai-Wu plot enovlope. 
 
 # Purpose
 This is a tool for designing general thin composite structures of no particular shape. The purpose of this code is to give the user a starting point for designing composite components after expected loading conditions are deretmined. This is not intended to be a final design tool. 
