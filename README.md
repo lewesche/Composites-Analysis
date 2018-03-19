@@ -1,6 +1,6 @@
-# CLT-Composites-Analysis
-    By Leif Wesche
-    Lewesche@gmail.com
+# CLT-Composites-Analysis \
+    By Leif Wesche \
+    Lewesche@gmail.com \
 
 
 # Description
