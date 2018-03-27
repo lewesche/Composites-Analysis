@@ -4,7 +4,7 @@
 
 
 # Description
-    Analyze the layer stress and deformation of multi-layer composite laminates under various loads using Classical Laminate Theory (CLT).
+    Analyze the discrete layer stress, strain, and deformation of multi-layer composite laminates under various loads using Classical Laminate Theory (CLT).
     Failure modes are analyzed using stress failure theory, strain failure theory, and Tsai-Wu failure theory. 
     Plots strain profile, stress profile, and multiple failure envelopes. 
     Determines which plies fail and failure directions according to each failure theory. 
